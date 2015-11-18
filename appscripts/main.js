@@ -99,14 +99,14 @@ require(
         //the pug will be moving at different speed in different levels (easy = slower, medium = normal, hard = faster)
         easyButt.addEventListener('click',function(){
             console.log('easy mode')
-            gameTime=1200;
+            gameTime=2500;
             gameMode=true;
             alert("You have selected the EASY mode! All the best!");
         });
 
         medButt.addEventListener('click',function(){
             console.log('medium mode')
-            gameTime=800;
+            gameTime=1500;
             gameMode=true;
             alert("You have selected the MEDIUM mode! All the best!");
         });
