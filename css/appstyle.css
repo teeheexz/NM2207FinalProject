@@ -1,0 +1,47 @@
+html, body {
+	background-color: #fcfaf0;
+	height: 98%;
+	width: 98%;
+	font-family: "Avenir";
+	font-size: 12px;
+}
+
+
+h3 {
+	color:black;
+	height: 15%;
+	font-family: "Avenir";
+	font-size: 20px;
+	text-align: center;
+}
+
+#clickCounter {
+	font-family: "Avenir";
+	font-style: "bold";
+	font-size: 18px;
+	font-weight: bold;
+	color: #f7ca34;
+
+}
+
+#timeCounter {
+	font-family: "Avenir";
+	font-style: "bold";
+	font-size: 18px;
+	font-weight: bold;
+	color: #f7ca34;
+
+}
+
+#mySVGCanvas {
+	border: 0px solid #00f;
+	width: 600px;
+	height: 400px;
+	margin: auto;
+	background-color: white;
+
+}
+
+
+
+
